@@ -1,0 +1,70 @@
+body {
+    font-family: 'Fjalla One', sans-serif;
+    background-color: lightgray;
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: blue;
+    
+}
+.boxes {
+    display: block;
+    margin: 5%;
+    padding: 5%;
+    border: 1px solid black;
+    border-radius: 5%;
+    width: 20%;
+}
+:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: purple;
+}
+span {
+    color: red;
+    font-weight: bold;
+}
+#box1 {
+    background-color: green;
+}
+#box2 {
+    background-color: yellow;
+}
+#box3 {
+    background-color: white;
+}
+#box4 {
+    background-color: darksalmon;
+}
+.img-div {
+    width: 20px;
+    height: 10px;
+    background-color: black;
+}
+h1 {
+    color: purple;
+}
+.movies1 {
+    color: blue;
+}
+.movies2 {
+    color: red;
+}
+#number1 {
+    color: blue;
+}
+#number2 {
+    color: red;
+}
+#number3 {
+    color: green;
+}
+#number4 {
+    color: pink;
+}
+#number5 {
+    color: black;
+}
